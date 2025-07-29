@@ -231,26 +231,4 @@ A: 在 `method_params` 中為每個方法指定參數，或者調整 `method_rat
 
 本專案採用 MIT 授權。詳情請見 [LICENSE](LICENSE) 檔案。
 
-## 引用 📚
-
-如果本專案對您的研究有所幫助，請考慮引用：
-
-```bibtex
-@software{isw_data_augmentation,
-  title={Data Augmentation Ablation Study Framework for Internal Wave Image Segmentation},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/ISW-Data-Augmentation}
-}
-```
-
-## 聯絡資訊 📧
-
-如有任何問題或建議，歡迎透過以下方式聯絡：
-
-- GitHub Issues: [提交問題](https://github.com/yourusername/ISW-Data-Augmentation/issues)
-- Email: your.email@example.com
-
----
-
 **注意**：本框架專為海洋內波影像分割任務設計，使用前請確保您的數據集格式符合專案要求。所有增強方法都經過精心設計，以保持內波特徵的完整性。
