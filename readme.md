@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 這是一個專為海洋內波 (Internal Wave, ISW) 影像分割任務設計的數據增強 (Data Augmentation) 框架。本專案旨在系統化地執行、管理並評估多種數據增強技術對模型性能的影響。透過靈活的設定檔，使用者可以輕鬆組合不同的增強方法、調整參數，並為每次實驗自動生成詳細的說明文件。
 
